@@ -1,4 +1,4 @@
-//example of using the unknown type
+//example of using the unknown type in typescript
 
 let userInput: unknown;
 
